@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: #1e90ff;
+    margin: 0px;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    width:300px;
+    height: 300px;
+
+}
+
+nav {
+    position: sticky;
+    top: 0px;
+}
+
+ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #282A35;
+}
+
+li {
+    float: left;
+    
+}
+
+li a {
+    
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #808080;
+  }
+  /* 
+  =============================
+    ===================
+  This space is for other div or coloums you might add to the body 
+  =======================
+  
+  ========================
+  
+  */
+
+  footer {
+    
+    background-color: #282A35;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+   
+    
+}
+
+footer p {
+
+    font-size: 50px;
+    text-align: center;
+    float: right;
+    text-shadow: none;
+}
+
+
+.fa{
+    
+
+    padding: 20px;
+    font-size: 30px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    margin: 15px 15px;
+    border-radius: 50%;
+    
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+
+    background-color: #3B5998;
+    color: #ffffff;
+    
+
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+.fa-youtube {
+
+    background: #bb0000;
+    color: white;
+
+}
