@@ -16,10 +16,14 @@ img {
     
 }
 
+header h1 {
+    color: black
+}
+
 nav {
     position: sticky;
     top: 0px;
-    font-family: 'Tangerine', serif;
+    font-family: '28 Days Later', 'Tangerine',  sans-serif;
     font-size: 30px;
     letter-spacing: 3px;
 }
@@ -57,7 +61,7 @@ li a:hover {
 h1, p {
     
     color: #ffffff;
-    font-family: 'Tangerine', serif;
+    font-family: '28 Days Later', 'Tangerine',  sans-serif;
     text-shadow: 10px 10px 10px #000000;
     font-size: 60px;
     margin: 20px;
@@ -87,7 +91,7 @@ label {
 
     background-color: #92c9ff;
     color: #000000;
-    font-family: 'Tangerine', serif;
+    font-family: '28 Days Later', 'Tangerine',  sans-serif;
     font-size: 50px;
     letter-spacing: 2px;
     
@@ -125,7 +129,7 @@ footer {
 
 footer p {
 
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     float: right;
     text-shadow: none;
