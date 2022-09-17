@@ -78,8 +78,7 @@ li a:hover {
 
 */
 
-main h2 {
-
+main h2, .contact-title {
     color: #ffffff;
     font-family: '28 Days Later', 'Tangerine',  sans-serif;
     text-shadow: 10px 10px 10px #ff0000;
